@@ -368,7 +368,7 @@
     <date _name="7 of Hanuka" value="> hanuka(y)" offset="6"/>
     <date _name="8 of Hanuka" value="> hanuka(y)" offset="7"/>
   </country>
-  <country name="Italy">
+  <country _name="Italy">
     <date name="Capodanno" value="*/1/1" type="national" />
     <date name="Epifania" value="*/1/6" type="national" />
     <date name="Pasqua" type="religious" value="> easter(y)"  />
