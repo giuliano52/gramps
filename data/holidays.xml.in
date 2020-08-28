@@ -370,7 +370,7 @@
   </country>
   <country _name="Italy">
     <date name="Capodanno" value="*/1/1" type="national" />
-    <date name="Epifania" value="*/1/6" type="national" />
+    <date name="Epifania" value="*/1/6" type="religious" />
     <date name="Pasqua" type="religious" value="> easter(y)"  />
     <date name="Pasquetta" type="religious" value="> easter(y)" offset="1" />
     <date name="Festa della Liberazione" value="*/4/25" type="national" />
